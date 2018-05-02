@@ -1,0 +1,7 @@
+module.exports.obter = require('./obter')
+module.exports.obterTodosChecklist = require('./obter-todos-checklist')
+module.exports.obterTodos = require('./obter-todos')
+module.exports.cadastrar = require('./cadastrar')
+module.exports.editar = require('./editar')
+module.exports.verificar = require('./verificar')
+module.exports.remover = require('./remover')

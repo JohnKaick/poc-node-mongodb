@@ -1,0 +1,7 @@
+module.exports.obter = require('./obter')
+module.exports.obterTodos = require('./obter-todos')
+module.exports.obterAdmin = require('./obter-admin')
+module.exports.cadastrar = require('./cadastrar')
+module.exports.editar = require('./editar')
+module.exports.convidar = require('./convidar')
+module.exports.desconvidar = require('./desconvidar')

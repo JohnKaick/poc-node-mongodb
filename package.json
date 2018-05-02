@@ -1,0 +1,54 @@
+{
+  "name": "wi-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ativati/wi-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ativati/wi-core/issues"
+  },
+  "homepage": "https://github.com/ativati/wi-core#readme",
+  "dependencies": {
+    "apollo-server": "^0.3.3",
+    "app-module-path": "^2.2.0",
+    "archiver": "^2.1.0",
+    "aws-sdk": "^2.102.0",
+    "bluebird": "^3.5.1",
+    "dotenv": "^4.0.0",
+    "graphql": "^0.11.7",
+    "graphql-tools": "^2.12.0",
+    "handlebars": "^4.0.10",
+    "hapi": "^16.5.2",
+    "hapi-auth-jwt2": "^7.3.0",
+    "hapi-boom-decorators": "^3.0.0",
+    "hapi-router": "^3.5.0",
+    "inert": "^4.2.1",
+    "jsonwebtoken": "^8.1.0",
+    "jszip": "^3.1.4",
+    "lodash": "^4.17.4",
+    "lout": "^10.0.2",
+    "mailgun-js": "^0.13.1",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.7",
+    "node-zip": "^1.1.1",
+    "nodemailer": "^4.1.0",
+    "normalizr": "^3.2.3",
+    "password-hash": "^1.2.2",
+    "uuid": "^3.1.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "should": "^13.1.3"
+  }
+}

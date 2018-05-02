@@ -1,0 +1,8 @@
+module.exports.obter = require('./obter')
+module.exports.obterTodos = require('./obter-todos')
+module.exports.obterPublico = require('./obter-publico')
+module.exports.cadastrar = require('./cadastrar')
+module.exports.editar = require('./editar')
+module.exports.migrar = require('./migrar')
+module.exports.transmitir = require('./transmitir')
+module.exports.remover = require('./remover')

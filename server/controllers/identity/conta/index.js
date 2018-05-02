@@ -1,0 +1,7 @@
+module.exports.autenticar = require('./autenticar')
+module.exports.alterarSenha = require('./alterar-senha')
+module.exports.confirmarConta = require('./confirmar-conta')
+module.exports.recuperarSenha = require('./recuperar-senha')
+module.exports.recuperarSenhaCb = require('./recuperar-senha-cb')
+module.exports.cadastrar = require('./cadastrar')
+module.exports.permissao = require('./permissao')

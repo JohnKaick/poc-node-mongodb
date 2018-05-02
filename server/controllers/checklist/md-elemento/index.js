@@ -1,0 +1,6 @@
+module.exports.obter = require('./obter')
+module.exports.obterTodos = require('./obter-todos')
+module.exports.obterPorPasta = require('./obter-pasta')
+module.exports.cadastrar = require('./cadastrar')
+module.exports.editar = require('./editar')
+module.exports.remover = require('./remover')
